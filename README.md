@@ -5,7 +5,7 @@
 <img align="right" alt="" width="300" src=""><br>
 # 💫 About Me:
 
-🔭 I’m currently working on 404 2d Game Project<br><br>👯 I’m looking to collaborate on a multiplayer game dev project ;)<br><br>⚡ Fun fact When I’m not coding immersive worlds and game mechanics,<br> I’m competing in Farlight 84 or composing folk music tracks.
+🔭 I’m currently working on 404 2d Game Project<br><br>👯 I’m looking to collaborate on a multiplayer game dev project ;)<br><br>⚡ 
 
 
 ## 🌐 Socials:
